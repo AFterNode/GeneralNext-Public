@@ -1,5 +1,5 @@
 # General Next
 
-The multi module server management component
+Multi module server management component
 
 **Under Instruction**
