@@ -1,6 +1,6 @@
 # Configurations
 
-```markdown
+```yaml
 language: en_US
 
 services:
