@@ -10,4 +10,5 @@
     * [ChatFilter](management/ChatFilter.md)
 
 * [Customization](customization/README.md)
+    * [Alias](customization/Alias.md)
     * [MOTD](customization/MOTD.md)
