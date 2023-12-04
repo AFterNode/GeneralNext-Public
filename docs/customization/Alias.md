@@ -1,5 +1,7 @@
 # Alias Definitions
 
+**It's seems this document cannot displayed normally on docsify, you can read it on [Github](https://github.com/AFterNode/GeneralNext-Public/blob/master/docs/customization/Alias.md)**
+
 **customization/alias.yml@alias-definitions**
 ```yaml
 example-alias:
