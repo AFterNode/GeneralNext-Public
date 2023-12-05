@@ -1,6 +1,6 @@
-# Locale
+# 本地化
 
-## Supported
+## 已支持
 
 - **en_US** English (US)
 - **zh_CN** 简体中文
