@@ -18,7 +18,7 @@ data:
 ```
 
 <!-- Misc -->
-* **language** Console&In-Game language, see 
+* **language** Console&In-Game language, see [Locale](Locale.md)
 
 <!-- Services -->
 * **services** Configures service enable/disable
