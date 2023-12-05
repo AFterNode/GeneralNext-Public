@@ -1,5 +1,7 @@
 # General Next
 
+Document Version: `2.1.0`
+
 Multi module server management component
 
 ## Publish Pages
