@@ -6,7 +6,7 @@
 
 * [反作弊](/_zh_CN/anticheat/README.md)
     * [举报](/_zh_CN/anticheat/Reporting.md)
-    * [信誉等级](/_zh_CN/anticheat/TrustFactor.md)
+    * [信誉因素](/_zh_CN/anticheat/TrustFactor.md)
 
 * [管理](/_zh_CN/management/README.md)
 
