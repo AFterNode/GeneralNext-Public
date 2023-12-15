@@ -1,6 +1,6 @@
 # TrustFactor
 
-TrustFactor is an expermintal system, TF levels will decrease when user triggered flag-vl for any modules
+TrustFactor is an expermintal system
 
 Default level is ```BLUE```
 
