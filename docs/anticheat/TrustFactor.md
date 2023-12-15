@@ -19,10 +19,14 @@ This system is disabled in default, you can enable it in **anticheat/config.yml*
 ```yaml
 trust-factor:
   enabled: false
-  allow-auto-increase: true
+
+  reports:
+    green: 1
+    yellow: 5
+    red: 10
+
 ```
 
-- **allow-auto-increase** Allow TF levels increase automaticially on user reports successfully 
 - **reports.green** Change TF level to ```GREEN``` after reports received
 - **reports.yellow** Change TF level to ```YELLOW``` after reports received
 
