@@ -15,3 +15,4 @@
 ### 国内
 
 - [MineBBS](https://www.minebbs.com/resources/general.6255/) **可下载**
+- [MCBBS](https://www.mcbbs.net/thread-1481307-1-1.html)

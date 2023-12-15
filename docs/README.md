@@ -14,4 +14,5 @@ Multi module server management component
 
 ### China
 
-- [MineBBS](https://www.minebbs.com/resources/general.6255/)
+- [MineBBS](https://www.minebbs.com/resources/general.6255/) **Downloadable**
+- [MCBBS](https://www.mcbbs.net/thread-1481307-1-1.html)
