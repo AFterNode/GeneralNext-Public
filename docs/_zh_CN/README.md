@@ -6,6 +6,8 @@
 
 ## 发布页面
 
+非来自以下源的分发版一律为非合规分发，不受理此种情况出现的任何问题
+
 ### 国际
 - [Github Releases](https://github.com/AFterNode/GeneralNext-Public/releases) **主要**  **可下载**
 - [Modrinth](https://modrinth.com/plugin/general/versions) **可下载**

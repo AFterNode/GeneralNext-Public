@@ -6,6 +6,8 @@ Multi module server management component
 
 ## Publish Pages
 
+Distributions that are not from the following sources are non-compliant distributions and will not accept any issues arising from this situation
+
 ### Global
 - [Github Releases](https://github.com/AFterNode/GeneralNext-Public/releases) **PRIMARY**  **Downloadable**
 - [Modrinth](https://modrinth.com/plugin/general/versions) **Downloadable**
